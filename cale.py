@@ -14,7 +14,7 @@ st.markdown("""
 
 /* Centrar el calendario */
 .block-container {
-    max-width: 1100px;
+    max-width: 1000px;
     margin: auto;
 }
 

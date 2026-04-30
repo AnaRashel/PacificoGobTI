@@ -14,7 +14,7 @@ st.markdown("""
 
 /* Centrar el calendario */
 .block-container {
-    max-width: 1000px;
+    max-width: 1050px;
     margin: auto;
 }
 
@@ -58,9 +58,9 @@ st.markdown("""
 # 📌 EVENTOS
 # -----------------------------
 eventos = [
-    {"title": "Registro de esfuerzos", "start": "2026-05-04","color": "#23B9FF"},
-    {"title": "Registro de esfuerzos", "start": "2026-05-05","color": "#23B9FF"},
-    {"title": "Registro de esfuerzos", "start": "2026-05-06","color": "#23B9FF"},
+    {"title": "Registro esfuerzos", "start": "2026-05-04","color": "#23B9FF"},
+    {"title": "Registro esfuerzos", "start": "2026-05-05","color": "#23B9FF"},
+    {"title": "Registro esfuerzos", "start": "2026-05-06","color": "#23B9FF"},
     {"title": "Conciliación y glosas", "start": "2026-05-07","color": "#0695D6"},
     {"title": "Envío de facturas", "start": "2026-05-08","color": "#1A1FA7"},
     {"title": "Envío de facturas", "start": "2026-05-11","color": "#1A1FA7"},

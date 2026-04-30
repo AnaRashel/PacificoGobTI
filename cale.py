@@ -82,8 +82,8 @@ eventos = [
 calendar_options = {
     "initialView": "dayGridMonth",
     "initialDate": "2026-05-01",
-    "height": 750,  # 👈 más alto
-    "contentHeight": 700,
+    "height": 650,  # 👈 más alto
+    "contentHeight": 600,
     "editable": False,
     "selectable": False,
     "dayMaxEventRows": False,  # 👈 muestra todos los eventos
